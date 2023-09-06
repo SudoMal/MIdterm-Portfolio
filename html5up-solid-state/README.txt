@@ -1,59 +1,87 @@
-Solid State by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Midterm Portfolio - HTML5 Up Solid State
 
+![Owner](https://avatars.githubusercontent.com/u/89554621?v=4)
 
-The frame used here is called Solid State by HTML5, a multi-
-pager that combines some of the ideas of angular look.
+Welcome to my Midterm Portfolio project! This repository contains the code for my personal portfolio website built using the HTML5 Up Solid State template.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever and some personal images of myself.
+## Table of Contents
 
-(* = not included)
+- [Introduction](#introduction)
+- [Demo](#demo)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
+## Introduction
 
-Header:
+This portfolio website showcases my personal and professional information, including my biography, skills, and future projects. It uses the Solid State template from HTML5 Up and is designed for both personal and commercial use under the CCA 3.0 license.
 
-Nav Bar which include, Home,  and future in depth Bio & Projects.
-H1 Name, logo, and Nav
+## Demo
 
+You can view a live demo of this portfolio [here](https://your-demo-link.com).
 
-Body:
-H2 Biography title
-Bio Paragraph 
-Div class of an image source.
+## Features
 
+- **Header**:
+  - Navigation bar with links to Home, Biography, and Future Projects.
+  - H1 Name, logo, and navigation menu.
 
-Content Class: 
-Highlights future projects that I can link. Highlights brief history on skills/military background.
-Included are lists, ordered, unordered, alternate, and social media icons that are linked. 
+- **Body**:
+  - H2 Biography title.
+  - Biography paragraph.
+  - Image source.
 
+- **Content Class**:
+  - Highlights future projects with links.
+  - Provides a brief history of skills and military background.
+  - Includes lists (ordered and unordered), alternate content, and social media icons with links.
 
-Buttons: 
-Included are small, medium, and large
+- **Buttons**:
+  - Small, medium, and large buttons.
 
+- **Footer**:
+  - Contact information boxes.
+  - Social media icons.
+  - Email icon.
 
-Footer: 
-Included are contact information boxes, social media, and email icons.
+- **Scripts**:
+  - jQuery
+  - Scrollex
+  - Browser
+  - Breakpoints
+  - Util
+  - Main
 
-Scripts:
-			
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+## Installation
 
-Credits:
+To run this project locally, follow these steps:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+1. Clone this repository:
+git clone https://github.com/SudoMal/MIdterm-Portfolio.git
 
-	Icons:
-		Font Awesome (fontawesome.io)
+2. Open the `index.html` file in your web browser.
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## Usage
+
+You can use this portfolio template for your own personal or professional website. Customize the content, add your own biography, projects, and images to make it your own.
+
+## Credits
+
+- **Demo Images**: [Unsplash](https://unsplash.com)
+- **Icons**: [Font Awesome](https://fontawesome.io)
+- **Other**:
+- [jQuery](https://jquery.com)
+- [Scrollex](https://github.com/ajlkn/jquery.scrollex)
+- [Responsive Tools](https://github.com/ajlkn/responsive-tools)
+
+## License
+
+This project is licensed under the [CCA 3.0 License](https://html5up.net/license). Feel free to use and modify it for your own purposes.
+
+---
+
+Feel free to fork this repository and customize it according to your needs. If you have any questions or suggestions, please don't hesitate to [contact me](mailto:deno@student.uiwtx.edu).
+
+[![GitHub](https://img.shields.io/github/license/SudoMal/MIdterm-Portfolio)](https://html5up.net/license)
